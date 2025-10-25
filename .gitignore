@@ -1,0 +1,35 @@
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+
+# === Build output ===
+out/
+target/
+*.class
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === VS Code ===
+.vscode/
+
+# === Java logs ===
+*.log
+
+
+/.gradle/
+/build/
+/nbproject/private/
+/dist/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+
+!src/
+!Database/
+!Executable/
+!README.txt
+!run_invoice.bat
+!github_info.txt
